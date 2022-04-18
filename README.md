@@ -5,9 +5,7 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Yawan-1/StackOverFlow--Clone">
 ![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)
 
-A Clone of StackOver Flow, I implemented almost every functionalities, 
-I just wanted to notice and show developers how StackOver-Flow works
-, do tasks <b style="color:lightgreen">under the hood</b>, how tasks and queries are executing behind the scenes.
+Thanks to Yawan for this great development.
 
 ## Images
 
@@ -15,7 +13,6 @@ I just wanted to notice and show developers how StackOver-Flow works
 
 ## Demo
 
-Here is a working live demo : <a href="https://stonkoverflow.herokuapp.com/">Demo</a> <b>(Removed from heroku because usage of so's production LOGO</b> But i will be back with my own better design than them)</b>
 
 ## Technology Stack
 
