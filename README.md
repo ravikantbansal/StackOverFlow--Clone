@@ -109,6 +109,16 @@ The following details and steps on how to deploy this application
 
 See detailed [Deploying django app on Heroku](https://devcenter.heroku.com/articles/django-app-configuration)
 
+Prerequisites
+To start with, there are few prerequisites needed before your website goes viral on the internet. There are two pieces of software that need to be installed on your PC to help you deploy the app.
+
+Git — Git is a version control tool that enables you to push and commit new changes to your codebase while preserving the previous versions. It's good practice to use Git for managing your project. To install Git, you can download it from the link provided, based on your OS — https://git-scm.com/downloads
+
+Heroku CLI — Heroku CLI is the Heroku client application, which is used to push your code to the Heroku web server. You will need to download the Heroku CLI and set it up with Git on your PC. This has been explained wonderfully on Heroku CLI website. Here is the link for the same — https://devcenter.heroku.com/articles/heroku-cli
+
+Heroku Login — Another requirement is that you will have to create a Heroku account. This can be made on https://www.heroku.com
+
+Python Virtual Environment — The next requirement is python virtual environment setup. Python virtual environment creates an environment for your project, within which you can install the dependencies which only that project requires. This helps you install only those dependencies on the cloud and save up space. To install Python Virtual environment, just run pip install virtualenv. Here is the link for the same — https://pypi.org/project/virtualenv/
 
 ## Contributing
 
